@@ -108,6 +108,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Based on operating systems scheduling concepts
 - Inspired by standard CPU scheduling algorithms
 
-## Contact
 
-For questions or contributions, please open an issue on GitHub.
